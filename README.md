@@ -1,16 +1,25 @@
-## Hi there 👋
+# Bienvenue sur mon Profil GitHub 👋
 
-<!--
-**NoaKajou/NoaKajou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un développeur web passionné qui aime créer des solutions innovantes. Mon expertise inclut le développement de sites web, d'APIs, et des outils de gestion de serveur.
 
-Here are some ideas to get you started:
+## Technologies que j'utilise 💻
+- **Langages :** HTML, CSS, JavaScript (React.js, Node.js, Vue.js, Discord.js), C++, C#, Ruby, Swift, Python
+- **Frameworks :** Express, Bootstrap
+- **Bases de données :** MongoDB, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mes projets 🚀
+- **WebSync** : une plateforme pour faciliter la mise en ligne de votre site Internet et la configuration d'un domaine personnalisé.
+- **SiteHébergement** : un service d'hébergement abordable avec prise en charge de DNS et des sous-domaines.
+- **Mon Portfolio** : un site qui rassemble toutes mes informations, projets et moyens de me contacter.
+- **API Perso** : développement d'une API personnelle, disponible en anglais et en français.
+- **Coop** : un bot Discord multitâches, avec son propre site web, ainsi que le bot Coop Status, dédié à mon serveur.
+- **NitroGen** : un bot de génération de codes aléatoires pour Discord.
+
+## Statistiques de Profil 📊
+![Profile Views](https://img.shields.io/badge/views-1-blue)
+
+## Accès rapide 🔗
+Cliquez sur les liens ci-dessous pour explorer chacun de mes dépôts :
+- [Mon Portfolio](https://noakajou.github.io/portfolio/)
+
+Merci de votre visite ! N'hésitez pas à me contacter si vous avez des questions ou souhaitez collaborer. 🤝
