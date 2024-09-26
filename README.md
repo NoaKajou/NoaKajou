@@ -8,12 +8,7 @@ Je suis un développeur web passionné qui aime créer des solutions innovantes.
 - **Bases de données :** MongoDB, MySQL
 
 ## Mes projets 🚀
-- **WebSync** : une plateforme pour faciliter la mise en ligne de votre site Internet et la configuration d'un domaine personnalisé.
-- **SiteHébergement** : un service d'hébergement abordable avec prise en charge de DNS et des sous-domaines.
 - **Mon Portfolio** : un site qui rassemble toutes mes informations, projets et moyens de me contacter.
-- **API Perso** : développement d'une API personnelle, disponible en anglais et en français.
-- **Coop** : un bot Discord multitâches, avec son propre site web, ainsi que le bot Coop Status, dédié à mon serveur.
-- **NitroGen** : un bot de génération de codes aléatoires pour Discord.
 
 ## Statistiques de Profil 📊
 <div>
