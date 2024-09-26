@@ -16,7 +16,11 @@ Je suis un développeur web passionné qui aime créer des solutions innovantes.
 - **NitroGen** : un bot de génération de codes aléatoires pour Discord.
 
 ## Statistiques de Profil 📊
-![Profile Views](https://img.shields.io/badge/views-1-blue)
+<div align="center">
+  <a href="https://github.com/NoaKajou">
+    <img src="https://komarev.com/ghpvc/?username=NoaKajou&color=69a5dc&style=flat&label=Vues+du+profil"/>
+  </a>
+</div>
 
 ## Accès rapide 🔗
 Cliquez sur les liens ci-dessous pour explorer chacun de mes dépôts :
