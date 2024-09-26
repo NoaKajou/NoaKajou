@@ -16,7 +16,7 @@ Mon passe temps c'est la création, je fais surtout des sites web pour découvri
 ## Accès rapide 🔗
 Cliquez sur les liens ci-dessous pour explorer chacun de mes dépôts :
 <div align="center">
-  <a href="https://github.com/NoaKajou"><img src="https://img.shields.io/badge/NoaKajou-333333?logo=Github&logoColor=white"/></a>
+  <a href="https://github.com/NoaKajou/portfolio#readme"><img src="https://img.shields.io/badge/NoaKajou-333333?logo=Github&logoColor=white"/></a>
 </div>
 Merci de votre visite ! N'hésitez pas à me contacter si vous avez des questions ou souhaitez collaborer. 🤝
 
