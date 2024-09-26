@@ -1,6 +1,6 @@
 # Bienvenue sur mon Profil GitHub 👋
 
-Je suis un développeur web passionné qui aime créer des solutions innovantes. Mon expertise inclut le développement de sites web, d'APIs, et des outils de gestion de serveur.
+[![GitHub](https://img.shields.io/badge/20syldev-333333?logo=Github&logoColor=white)](https://github.com/NoaKajou)
 
 ## Technologies que j'utilise 💻
 - **Langages :** HTML, CSS, JavaScript (React.js, Node.js, Vue.js, Discord.js), C++, C#, Ruby, Swift, Python
