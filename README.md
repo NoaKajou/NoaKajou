@@ -1,32 +1,44 @@
+---
+
 # Bienvenue sur mon Profil GitHub 👋
-# Moi c'est Noa !
+### Salut, moi c'est Noa !
 
-[![GitHub](https://img.shields.io/badge/NoaKajou-333333?logo=Github&logoColor=white)](https://github.com/NoaKajou)
-[![Discord](https://img.shields.io/badge/Kaneki1394_-5865F2?logo=Discord&logoColor=white)](https://discord.com/users/702504146250760273)
-[![Linkedin](https://img.shields.io/badge/NoaR-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noa-rafrafi-a0bb33311)](https://www.linkedin.com/in/noa-rafrafi-a0bb33311/)
+[![GitHub](https://img.shields.io/badge/NoaKajou-333333?logo=Github&logoColor=white)](https://github.com/NoaKajou) 
+[![Discord](https://img.shields.io/badge/Kaneki1394_-5865F2?logo=Discord&logoColor=white)](https://discord.com/users/702504146250760273) 
+[![Linkedin](https://img.shields.io/badge/NoaR-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noa-rafrafi-a0bb33311/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MAIS+SI+TOUT+EST+POSSIBLE;AVEC+LA+CARTE+KIWI)](https://git.io/typing-svg)
-
-### Développeur Web Designer d'origine francaise.
-Mon passe temps c'est la création, je fais surtout des sites web pour découvrir les languages liés au domaines et j'adore ça.
-
-## Mes projets 🚀
-- **Mon Portfolio** : un site qui rassemble toutes mes informations, projets et moyens de me contacter.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=TOUT+EST+POSSIBLE+AVEC+LA+CARTE+KIWI)](https://git.io/typing-svg)
 
 ---
 
-## Accès rapide 🔗
-Cliquez sur les liens ci-dessous pour explorer chacun de mes dépôts :
+### Développeur Web & Designer d'origine française 🌍  
+Passionné par la création numérique, je me spécialise dans le développement de sites web tout en explorant les technologies et langages liés au domaine. J'aime apprendre et mettre en pratique mes connaissances à travers des projets variés.
+
+---
+
+## 🚀 Projets en vedette  
+- **Mon Portfolio** : Un espace où je regroupe mes projets, mes infos personnelles, et les moyens de me contacter.
+
+---
+
+## 🔗 Accès rapide  
+Cliquez sur les liens ci-dessous pour explorer mes dépôts :
+
 <div align="center">
-  <a href="https://github.com/NoaKajou/portfolio#readme"><img src="https://img.shields.io/badge/NoaKajou-333333?logo=Github&logoColor=white"/></a>
+  <a href="https://github.com/NoaKajou/portfolio#readme"><img src="https://img.shields.io/badge/Portfolio-333333?logo=Github&logoColor=white"/></a>
 </div>
-Merci de votre visite ! N'hésitez pas à me contacter si vous avez des questions ou souhaitez collaborer. 🤝
 
 ---
 
-## Statistiques de Profil 📊
+## 📊 Statistiques de Profil  
 <div align='center'>
   <a href="https://github.com/NoaKajou">
     <img src="https://komarev.com/ghpvc/?username=NoaKajou&color=69a5dc&style=flat&label=Vues+du+profil"/>
   </a>
 </div>
+
+---
+
+Merci d'être passé ! N'hésite pas à me contacter si tu as des questions ou si tu souhaites collaborer. 🤝
+
+---
