@@ -1,4 +1,3 @@
----
 
 # Bienvenue sur mon Profil GitHub 👋
 ### Salut, moi c'est Noa !
@@ -40,5 +39,3 @@ Cliquez sur les liens ci-dessous pour explorer mes dépôts :
 ---
 
 Merci d'être passé ! N'hésite pas à me contacter si tu as des questions ou si tu souhaites collaborer. 🤝
-
----
