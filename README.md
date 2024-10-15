@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Kaneki1394_-5865F2?logo=Discord&logoColor=white)](https://discord.com/users/702504146250760273) 
 [![Linkedin](https://img.shields.io/badge/NoaR-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noa-rafrafi-a0bb33311/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=TOUT+EST+POSSIBLE+AVEC+LA+CARTE+KIWI)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=TOUT+EST+POSSIBLE+AVEC+LA+CARTE+KIWI)](https://github.com/noakajou)
 
 ---
 
