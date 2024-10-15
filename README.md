@@ -31,7 +31,11 @@ Cliquez sur les liens ci-dessous pour explorer mes dépôts :
 
 ## 📊 Statistiques de Profil  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NoaKajou&theme=transparent&border_radius=15&date_format=j%20M%5B%20Y%5D)](https://github.com/noakajou)
+<div align='center'>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=NoaKajou&theme=dark&border_radius=20" alt="GitHub Streak" />
+  </a>
+</div>
 <div align='center'>
   <a href="https://github.com/NoaKajou">
     <img src="https://komarev.com/ghpvc/?username=NoaKajou&color=69a5dc&style=flat&label=Vues+du+profil"/>
