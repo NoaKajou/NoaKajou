@@ -16,7 +16,7 @@ Passionné par la création numérique, je me spécialise dans le développement
 ---
 
 ## 🚀 Projets en vedette  
-- **Mon Portfolio** : Un espace où je regroupe mes projets, mes infos personnelles, et les moyens de me contacter.
+- **Mon Portfolio** : Un espace où je regroupe mes projets, mes infos personnelles, et les moyens de me contacter.[![GitHub Streak](https://streak-stats.demolab.com?user=NoaKajou&theme=transparent&border_radius=15&date_format=j%20M%5B%20Y%5D)](https://github.com/noakajou)
 
 ---
 
@@ -33,7 +33,7 @@ Cliquez sur les liens ci-dessous pour explorer mes dépôts :
 
 <div align='center'>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=NoaKajou&theme=dark&border_radius=20" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=NoaKajou&theme=transparent&border_radius=20" alt="GitHub Streak" />
   </a>
 </div>
 <div align='center'>
