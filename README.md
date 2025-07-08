@@ -28,7 +28,7 @@ I'm a passionate developer focused on building clean, reliable, and user-focused
 Sends daily Almanax updates from the Dofus universe to Discord servers, fully automated using scraping and scheduling logic.
 
 ### 📚 E-Pad (Museum Machine)
-A custom retro-styled terminal built for Raspberry Pi. Reads eBooks (txt), plays MP3s, and features a minimal UI designed for retro environments.
+A custom retro-styled terminal built for Linux, windows and mac. Plays MP3s, and features a minimal UI designed for retro environments.
 
 ### 🔍 Pokédex Web App
 A full Pokédex frontend with scrollable index and dedicated Pokémon pages. Built using modern JS and a custom backend with relational data.
