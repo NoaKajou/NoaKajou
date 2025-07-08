@@ -5,7 +5,7 @@ I'm a passionate developer focused on building clean, reliable, and user-focused
 ## 🚀 About Me
 
 - 💡 I love turning ideas into practical digital tools.
-- 🛠️ My specialties include **JavaScript**, **Node.js**, **Python**, and **PHP**.
+- 🛠️ My specialties include **JavaScript**, **Python**, and **PHP**.
 - 🎯 I enjoy working on bots, web apps, interactive interfaces, and retro-inspired systems.
 - 🤝 Open to collaborations and new tech challenges.
 
