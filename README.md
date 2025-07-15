@@ -37,7 +37,6 @@ A full Pokédex frontend with scrollable index and dedicated Pokémon pages. Bui
 ## 📫 Get in Touch
 
 - 📧 Email: *no1.rafrafi@gmail.com*
-- 💼 LinkedIn: [*Noa RAFRAFI*](https://www.linkedin.com/in/noa-rafrafi-a0bb33311/)
 
 ---
 
