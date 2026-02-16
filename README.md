@@ -21,20 +21,20 @@ I also have a portfolio if you wanna see it just click [here](https://noakajou.g
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![C#](https://img.shields.io/badge/C--Sharp-47848F?style=flat&logo=csharp&logoColor=white)
 
 ## 📌 Featured Projects
 
-### 🧙 Almanax Bot
-Sends daily Almanax updates from the Dofus universe to Discord servers, fully automated using an api to ensure the information. (not online)
+
 
 ### 📚 E-Pad
-A custom retro-styled terminal built for Linux, windows and mac. Plays MP3s, and features a minimal UI designed for retro environments (downloadable app)
+A custom made mp3 player i made using js and electron.
 
 ### 🔍 Pokédex Web App
-A full Pokédex frontend with scrollable index and dedicated Pokémon pages. Built using modern JS and a custom backend with relational data. (not online)
+A pokemon dictionnary that i made during first year of BTS SIO SLAM. (online)
 
 ### 🪪 Portfolio
-It updates automatically so i dont have to add every github project on it manually. It is on a private repository and that voluntary.
+My portfolio is avaible [here](https://noakajou.github.io/portfolio/). If you need any information you can contact me via my mail.
 
 ### 📜 Electronjs-template
 Everything is in the name, this is a template for the ones starting with electron. I created this templace to see how a template works too so it may not be perfect.
@@ -42,8 +42,8 @@ Everything is in the name, this is a template for the ones starting with electro
 ### Jeu-du-Pendu
 This is a replica of the "Hangman" game if im right, has no interface for now so you need to play it on the console but i may be planning on adding a user interface.
 
-### DOFUS-DISCORD
-That one is a api attempt but i failed so for now it is not working at all
+### Minecraft Launcher
+That one is a personnal project and only when i have time to waste so i don't work that much on it but it may be online someday.
 
 **there might be some other repositories if you search but some are just interesting nor finished**
 
