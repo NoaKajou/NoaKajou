@@ -47,9 +47,9 @@ That one is a personnal project and only when i have time to waste so i don't wo
 
 **there might be some other repositories if you search but some are just not interesting nor finished**
 
-## 📫 Get in Touch
+##  Get in Touch
 
-- 📧 Email: *no1.rafrafi@gmail.com*
+-  Email: *no1.rafrafi@gmail.com*
 
 ---
 
