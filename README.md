@@ -31,7 +31,7 @@ I also have a portfolio if you wanna see it just click [here](https://noakajou.g
 A custom made mp3 player i made using js and electron.
 
 ### 🔍 Pokédex Web App
-A pokemon dictionnary that i made during first year of BTS SIO SLAM. (online)
+A pokemon dictionnary that i made during first year of BTS SIO SLAM. [(avaible here)](https://my-own-pokedex.rf.gd/index.php?i=1)
 
 ### 🪪 Portfolio
 My portfolio is avaible [here](https://noakajou.github.io/portfolio/). If you need any information you can contact me via my mail.
