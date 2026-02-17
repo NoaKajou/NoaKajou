@@ -21,7 +21,7 @@ I also have a portfolio if you wanna see it just click [here](https://noakajou.g
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
-![C#](https://img.shields.io/badge/C--Sharp-47848F?style=flat&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-C--Sharp-brightgreen?style=flat&logo=csharp&logoColor=white)
 
 ## 📌 Featured Projects
 
