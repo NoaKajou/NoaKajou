@@ -43,7 +43,7 @@ Everything is in the name, this is a template for the ones starting with electro
 This is a replica of the "Hangman" game if im right, has no interface for now so you need to play it on the console but i may be planning on adding a user interface.
 
 ### Minecraft Launcher
-That one is a personnal project and only when i have time to waste so i don't work that much on it but it may be online someday.
+That one is a personnal project and i only work on itwhen i have time to waste so i don't work that much on it but it may be online someday.
 
 **there might be some other repositories if you search but some are just not interesting nor finished**
 
