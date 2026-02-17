@@ -5,10 +5,10 @@ I also have a portfolio if you wanna see it just click [here](https://noakajou.g
 
 ## 🚀 About Me
 
-- 💡 I like turning ideas into practical digital tools.
-- 🛠️ Im focusing on Python, JavaScript and a bit of PHP
-- 🎯 I enjoy working on automation, web apps, interactive interfaces, and retro-inspired systems.
-- 🤝 Open to collaborations and new tech challenges.
+- 💡 I like to help others doing their projects.
+- 🛠️ Im focusing on Javascript, PHP and C-sharp.
+- 🎯 I enjoy working on alot of things, particullarly autommation, and some cool interface in the 80's style.
+- 🤝 Im always open to learn new things and help other.
 
 ## 🧰 Tech Stack
 
@@ -45,7 +45,7 @@ This is a replica of the "Hangman" game if im right, has no interface for now so
 ### Minecraft Launcher
 That one is a personnal project and only when i have time to waste so i don't work that much on it but it may be online someday.
 
-**there might be some other repositories if you search but some are just interesting nor finished**
+**there might be some other repositories if you search but some are just not interesting nor finished**
 
 ## 📫 Get in Touch
 
