@@ -3,14 +3,14 @@
 I'm a trainee developer focused on building clean, reliable, and user-focused software — from automation tools to full-featured interfaces.
 I also have a portfolio if you wanna see it just click [here](https://noakajou.github.io/portfolio/)
 
-## 🚀 About Me
+##  About Me
 
-- 💡 I like to help others doing their projects.
-- 🛠️ Im focusing on Javascript, PHP and C-sharp.
-- 🎯 I enjoy working on alot of things, particullarly autommation, and some cool interface in the 80's style.
-- 🤝 Im always open to learn new things and help other.
+-  I like to help others doing their projects.
+-  Im focusing on Javascript, PHP and C-sharp.
+-  I enjoy working on alot of things, particullarly autommation, and some cool interface in the 80's style.
+-  Im always open to learn new things and help other.
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -23,20 +23,20 @@ I also have a portfolio if you wanna see it just click [here](https://noakajou.g
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-c--sharp-47848F?style=flat&logo=c-sharp&logoColor=white)
 
-## 📌 Featured Projects
+##  Featured Projects
 
 
 
-### 📚 E-Pad
+###  E-Pad
 A custom made mp3 player i made using js and electron.
 
-### 🔍 Pokédex Web App
-A pokemon dictionnary that i made during first year of BTS SIO SLAM. [(avaible here)](https://my-own-pokedex.rf.gd/index.php?i=1)
+###  Pokédex Web App
+A pokemon dictionnary that i made during first year of BTS SIO SLAM. [(available here)](https://my-own-pokedex.rf.gd/index.php?i=1)
 
-### 🪪 Portfolio
-My portfolio is avaible [here](https://noakajou.github.io/portfolio/). If you need any information you can contact me via my mail.
+###  Portfolio
+My portfolio is available [here](https://noakajou.github.io/portfolio/). If you need any information you can contact me via my mail.
 
-### 📜 Electronjs-template
+###  Electronjs-template
 Everything is in the name, this is a template for the ones starting with electron. I created this templace to see how a template works too so it may not be perfect.
 
 ### Jeu-du-Pendu
